@@ -10,8 +10,8 @@
   display: grid;
   grid-template-rows: 1fr 1fr ;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  align-items: center;
-  margin: 100px 300px;
+  justify-items: left;
+  margin: 10px 250px;
 }
 #photoGrid .image {
   width: 250px;
